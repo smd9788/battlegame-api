@@ -28,7 +28,7 @@ Front end:
 5. As a signed in user, I want to preview the level up stats
 
 ### WireFrames/ERD:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vCzeKl5"><a href="//imgur.com/vCzeKl5">Battlesim-wireframe_erd</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Images]("//imgur.com/vCzeKl5")
 
 ### Process Plan:
 
