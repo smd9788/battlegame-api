@@ -28,7 +28,7 @@ Front end:
 5. As a signed in user, I want to preview the level up stats
 
 ### WireFrames/ERD:
-![Images]("//imgur.com/vCzeKl5")
+![Images]("https://imgur.com/hh2729K")
 
 ### Process Plan:
 
