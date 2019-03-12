@@ -1,7 +1,6 @@
 const mongoose = require('mongoose')
 
 const characterSchema = new mongoose.Schema({
-  _id: mongoose.Schema.Types.ObjectId,
   nickname: {
     type: String,
     required: true
@@ -10,16 +9,17 @@ const characterSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
+  charClass: {
+    type: String,
+    required: true
+  },
   owner: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
     required: true
   }
 }, {
-  created: {
-    type: Date,
-    default: Date.now
-  }
+  timestamps: true
 })
 
 // possibly add img avatar as buffer type
