@@ -3,7 +3,7 @@
 
 Test my game out here: [reac*Rcade](https://smd9788.github.io/battlegame-client/#/)
 ## Preview
-![wireframe]('https://imgur.com/a/DLDsaKX')
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DLDsaKX"><a href="//imgur.com/DLDsaKX">herobuilder</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 If you want to work on this app for yourself follow these steps to clone:
 ## Preparation
