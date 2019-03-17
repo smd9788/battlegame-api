@@ -3,6 +3,9 @@
 
 Test my game out here: [reac*Rcade](https://smd9788.github.io/battlegame-client/#/)
 
+Preview:
+![preview](/images/screenshot3.17.19.png)
+
 If you want to work on this app for yourself follow these steps to clone:
 ## Preparation
 
