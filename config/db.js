@@ -1,7 +1,7 @@
 'use strict'
 
 // creating a base name for the mongodb
-const mongooseBaseName = 'battlegame-api'
+const mongooseBaseName = 'herobuilder-api'
 
 // create the mongodb uri for development and test
 const database = {

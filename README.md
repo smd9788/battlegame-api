@@ -1,7 +1,7 @@
 # reac*rcade
 # HeroBuilder
 
-Test my game out here: [reac*Rcade](https://smd9788.github.io/battlegame-client/#/)
+Test my game out here: [reac*Rcade](https://smd9788.github.io/herobuilder-client/#/)
 
 Preview:
 ![preview](/images/screenshot3.17.19.png)
@@ -22,15 +22,15 @@ In the current version I aimed to CRUD all user resources and allow users to cre
 
 GitHub Repositories:
 
-Back end: https://github.com/smd9788/battlegame-api
+Back end: https://github.com/smd9788/herobuilder-api
 
-Front end: https://github.com/smd9788/battlegame-client
+Front end: https://github.com/smd9788/herobuilder-client
 
 Deployed Sites:
 
 Back end: https://reactrcade-api.herokuapp.com/
 
-Front end: https://smd9788.github.io/battlegame-client/
+Front end: https://smd9788.github.io/herobuilder-client/
 
 ### Technology used on api:
   - MongoDB with Mongoose
