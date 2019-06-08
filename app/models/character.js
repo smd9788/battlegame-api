@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const characterSchema = new mongoose.Schema({
+const CharacterSchema = new mongoose.Schema({
   nickname: {
     type: String,
     required: true
@@ -24,4 +24,4 @@ const characterSchema = new mongoose.Schema({
 
 // possibly add img avatar as buffer type
 
-module.exports = mongoose.model('Character', characterSchema)
+module.exports = mongoose.model('Character', CharacterSchema)
